@@ -6,7 +6,8 @@ class Solution {
         int[] arr2 = new int[n];
         arr1[0] = nums[0];
         arr2[0] = nums[1];
-        int len1 = 1, len2 = 1;
+        int len1 = 1;
+        int len2 = 1;
 
         for (int i = 2; i < n; i++) {
 
