@@ -52,7 +52,6 @@ class Solution {
             for (int i = 0; i < size; i++) {
                 State cur = queue.poll();
 
-                // Goal check first
                 if (cur.mask == allCollected) return moves;
 
                 if (cur.energy == 0) continue;
