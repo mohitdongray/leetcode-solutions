@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mohitdongray/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1872-stone-game-viii](https://github.com/mohitdongray/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mohitdongray/leetcode-solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohitdongray/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mohitdongray/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/mohitdongray/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/mohitdongray/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitdongray/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mohitdongray/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
