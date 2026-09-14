@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohitdongray/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/mohitdongray/leetcode-solutions/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/mohitdongray/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/mohitdongray/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mohitdongray/leetcode-solutions/tree/master/1927-sum-game) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mohitdongray/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mohitdongray/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mohitdongray/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohitdongray/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mohitdongray/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mohitdongray/leetcode-solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mohitdongray/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
