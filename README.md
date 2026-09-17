@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitdongray/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mohitdongray/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mohitdongray/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1539-kth-missing-positive-number](https://github.com/mohitdongray/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitdongray/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1539-kth-missing-positive-number](https://github.com/mohitdongray/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohitdongray/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitdongray/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mohitdongray/leetcode-solutions/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
