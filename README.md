@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitdongray/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mohitdongray/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mohitdongray/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/mohitdongray/leetcode-solutions/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/mohitdongray/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1872-stone-game-viii](https://github.com/mohitdongray/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohitdongray/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitdongray/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/mohitdongray/leetcode-solutions/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/mohitdongray/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohitdongray/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
